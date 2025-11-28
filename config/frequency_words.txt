@@ -97,3 +97,5 @@ U
 Visa
 Mastercard
 Shopify
+chatgpt
+gemini
